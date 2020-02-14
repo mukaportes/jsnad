@@ -1,0 +1,28 @@
+{
+  "name": "jsnad",
+  "version": "1.0.0",
+  "description": "JSNAD OpenJS Certification Studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukaportes/jsnad.git"
+  },
+  "keywords": [
+    "jsnad",
+    "javascript",
+    "node",
+    "application",
+    "developer",
+    "studies",
+    "certification"
+  ],
+  "author": "Murilo Portescheller <@mukaportes>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mukaportes/jsnad/issues"
+  },
+  "homepage": "https://github.com/mukaportes/jsnad#readme"
+}
